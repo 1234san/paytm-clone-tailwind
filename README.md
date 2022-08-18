@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Sana-Quazi-lightgrey)
 
-## Paytm UI Clone (FULLY Responsive) [Live Link]()
+## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytm-tailwind-clone.netlify.app/)
 
 #### Screenshot
 
